@@ -51,9 +51,9 @@ Hello! I'm Fergus Cassidy, a driven software engineer with a love for technology
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/ferguscassidy/)
+<!--- [Twitter](https://twitter.com/yourusername)-->
+<!--- [Personal Website](https://yourwebsite.com)-->
 
 ## Contributions
 
