@@ -7,11 +7,10 @@ Hello! I'm Fergus Cassidy, a driven software engineer with a love for technology
 <!--- 🔭 I’m currently working on: [Your Current Project]-->
 - ⚕️ I currently work within healthcare and social housing
 - 🌱 I’m currently learning: Knex ORM for NodeJS
-<!--- 👯 I’m looking to collaborate on: [Open Source Project or Field]-->
 - 💬 Ask me about: Websites and AI/ML
 - 📫 How to reach me: fergusjcassidy@gmail.com
 - ⚡ Fun fact: climbed the tallest 3 peaks in England, Scotland and Wales in 25 hours!
-
+<!--- 👯 I’m looking to collaborate on: [Open Source Project or Field]-->
 ## Skills
 
 - **Programming Languages:**
