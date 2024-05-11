@@ -27,7 +27,7 @@ Hello! I'm Fergus Cassidy, a driven software engineer with a love for technology
 - **Tools and Platforms:**
   - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
+<!--
 ## Projects
 
 ### Project 1: [Project Name]
@@ -39,7 +39,7 @@ Hello! I'm Fergus Cassidy, a driven software engineer with a love for technology
 - **Description:** Brief description of the project.
 - **Technologies Used:** List of technologies.
 - **Link:** [GitHub Repository Link](#)
-
+-->
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fergus2299&show_icons=true&theme=radical)
