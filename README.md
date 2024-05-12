@@ -34,7 +34,7 @@ Hello! I'm Fergus Cassidy, a driven software engineer with a love for technology
 - **Coming Soon**
 
 ### IBM MQ Listener
-- **Description:** Myself and a team at UCL built a monitoring app/tool for IBM MQ.
+- **Description:** Myself and a team at UCL built a monitoring app/tool for IBM MQ capable of monitoring 1000s of messages a second.
 - **Technologies Used:** Java, Message Queues, Spring Framework, PC Format messages.
 - **Links:** [Terminal only monitoring app](https://github.com/Fergus2299/ibm-mq-listener), [Whole app](https://github.com/Zaid1120/MQMerlin)
 
