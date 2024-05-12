@@ -16,11 +16,11 @@ Hello! I'm Fergus Cassidy, a driven software engineer with a love for technology
 - **Programming Languages:**
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+  - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   - ![Adobe ColdFusion]( https://img.shields.io/badge/Adobe%20ColdFusion-red)
 
 - **Frameworks and Libraries:**
-  - ![NodeJS](https://img.shields.io/badge/-NodeJS-61DAFB?style=flat&logo=npm&logoColor=black)
+  - ![NodeJS](https://img.shields.io/badge/-NodeJS-61DAFB?style=flat&logo=nodedotjs&logoColor=black)
   - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
   - ![Springboot](https://img.shields.io/badge/-Springboot-092E20?style=flat&logo=spring&logoColor=green)
 
