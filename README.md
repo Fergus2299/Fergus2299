@@ -20,9 +20,9 @@ Hello! I'm Fergus Cassidy, a driven software engineer with a love for technology
   - ![Adobe ColdFusion]( https://img.shields.io/badge/Adobe%20ColdFusion-red)
 
 - **Frameworks and Libraries:**
-  - ![NodeJS](https://img.shields.io/badge/-NodeJS-61DAFB?style=flat&logo=nodedotjs&logoColor=black)
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  - ![Springboot](https://img.shields.io/badge/-Springboot-092E20?style=flat&logo=spring&logoColor=green)
+  - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  - ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 - **Tools and Platforms:**
   - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
