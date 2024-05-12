@@ -27,14 +27,14 @@ Hello! I'm Fergus Cassidy, a driven software engineer with a love for technology
 - **Tools and Platforms:**
   - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-<!--
+
 ## Projects
 
-### Project 1: [Project Name]
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies.
-- **Link:** [GitHub Repository Link](#)
-
+### IBM MQ Listener
+- **Description:** Myself and a team at UCL built a monitoring app/tool for IBM MQ.
+- **Technologies Used:** Java, Message Queues, Spring Framework, PC Format messages.
+- **Links:** [Terminal only monitoring app](https://github.com/Fergus2299/ibm-mq-listener), [Whole app](https://github.com/Zaid1120/MQMerlin)
+<!--
 ### Project 2: [Project Name]
 - **Description:** Brief description of the project.
 - **Technologies Used:** List of technologies.
